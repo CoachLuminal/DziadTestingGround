@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Gra z dante\\New Unity Project\\Repository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\SpecialInventoryUI\\SpecialSlotsUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\InventoryUI\\InventoryUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\InventoryUIOverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemPickUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemDropper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryUIOverlay.cs",
+              "DocumentMoniker": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\InventoryUIOverlay.cs",
+              "RelativeDocumentMoniker": "..\\Assets\\Scripts\\Inventory\\InventoryUIOverlay.cs",
+              "ToolTip": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\InventoryUIOverlay.cs",
+              "RelativeToolTip": "..\\Assets\\Scripts\\Inventory\\InventoryUIOverlay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:21:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecialSlotsUI.cs",
+              "DocumentMoniker": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\SpecialInventoryUI\\SpecialSlotsUI.cs",
+              "RelativeDocumentMoniker": "..\\Assets\\Scripts\\Inventory\\SpecialInventoryUI\\SpecialSlotsUI.cs",
+              "ToolTip": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\SpecialInventoryUI\\SpecialSlotsUI.cs",
+              "RelativeToolTip": "..\\Assets\\Scripts\\Inventory\\SpecialInventoryUI\\SpecialSlotsUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:15:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\InventoryUI\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "..\\Assets\\Scripts\\Inventory\\InventoryUI\\InventoryUI.cs",
+              "ToolTip": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\InventoryUI\\InventoryUI.cs",
+              "RelativeToolTip": "..\\Assets\\Scripts\\Inventory\\InventoryUI\\InventoryUI.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:15:00.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\Assets\\Scripts\\Inventory\\Inventory.cs",
+              "ToolTip": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Inventory\\Inventory.cs",
+              "RelativeToolTip": "..\\Assets\\Scripts\\Inventory\\Inventory.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:14:55.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemPickUp.cs",
+              "DocumentMoniker": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemPickUp.cs",
+              "RelativeDocumentMoniker": "..\\Assets\\Scripts\\Items\\ItemPickUp.cs",
+              "ToolTip": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemPickUp.cs",
+              "RelativeToolTip": "..\\Assets\\Scripts\\Items\\ItemPickUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:14:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemDropper.cs",
+              "DocumentMoniker": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemDropper.cs",
+              "RelativeDocumentMoniker": "..\\Assets\\Scripts\\Items\\ItemDropper.cs",
+              "ToolTip": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemDropper.cs",
+              "RelativeToolTip": "..\\Assets\\Scripts\\Items\\ItemDropper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:14:44.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemContext.cs",
+              "RelativeDocumentMoniker": "..\\Assets\\Scripts\\Items\\ItemContext.cs",
+              "ToolTip": "D:\\Projects\\Gra z dante\\New Unity Project\\Assets\\Scripts\\Items\\ItemContext.cs",
+              "RelativeToolTip": "..\\Assets\\Scripts\\Items\\ItemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:14:41.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
